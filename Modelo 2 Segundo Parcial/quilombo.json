@@ -1,0 +1,62 @@
+{
+  "Persona": [
+    {
+      "barrio": "Alsina",
+      "nroKit": 1,
+      "apellido": "Mouras",
+      "ocupacion": "Jubilado",
+      "nombre": "Roberto",
+      "edad": 45,
+      "dni": "25675432"
+    },
+    {
+      "barrio": "nosequecentro",
+      "nroKit": 2,
+      "apellido": "Antonelli",
+      "ocupacion": "Empleado",
+      "nombre": "Matias",
+      "edad": 19,
+      "dni": "46112874"
+    },
+    {
+      "barrio": "Puerto",
+      "nroKit": 3,
+      "apellido": "Perez",
+      "ocupacion": "Ama de Casa",
+      "nombre": "Andrea",
+      "edad": 60,
+      "dni": "17986523"
+    },
+    {
+      "barrio": "Centenario",
+      "nroKit": 4,
+      "apellido": "Alcachofa",
+      "ocupacion": "Estudiante",
+      "nombre": "Juanita",
+      "edad": 16,
+      "dni": "48112874"
+    }
+  ],
+  "Registro": [
+    {
+      "barrio": "Alsina",
+      "nroKit": 1,
+      "temperatura": 36.5
+    },
+    {
+      "barrio": "nosequecentro",
+      "nroKit": 2,
+      "temperatura": 38.5
+    },
+    {
+      "barrio": "Puerto",
+      "nroKit": 3,
+      "temperatura": 38.4
+    },
+    {
+      "barrio": "Centenario",
+      "nroKit": 4,
+      "temperatura": 37.7
+    }
+  ]
+}

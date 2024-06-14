@@ -1,0 +1,39 @@
+{
+  "Integrantes":[
+    {
+      "puesto":"ARQUERO",
+      "apellido":"Antonelli",
+      "nroCamiseta":23,
+      "nombre":"Matias",
+      "edad":19,
+      "tipoIntegrante":"Futbolista"
+    },
+    {
+      "metodologia":"tactico",
+      "apellido":"asas",
+      "nombre":"Roberto",
+      "edad":45,
+      "tipoIntegrante":"AyudanteDeCampo"
+    },
+    {
+      "estiloDeJuego":"contraataque",
+      "apellido":"Scaloni",
+      "sistemaDeJuego":"4-4-3",
+      "nombre":"Lionel",
+      "edad":46,
+      "tipoIntegrante":"Entrenador"
+    },
+    {
+      "añosXP":3,
+      "apellido":"aaaa",
+      "titulo":"Masajista Experimentado",
+      "nombre":"Nose",
+      "edad":43,
+      "tipoIntegrante":"Masajista"
+    }
+  ],
+
+  "cantidadCopas":3,
+  "fechaDeFundacion":"17/5/1910",
+  "nombre":"AFA"
+}
